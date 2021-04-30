@@ -1,11 +1,9 @@
 package inheritanceHomework;
 
 public class Instructor extends User {
-	// eðitmen kullanýcý classýdýr
-	//User classýný miras alacaktýr
+
 	private String department;
 	
-	// super metodu miras olarak alýnan sýnýfýn bulunduðu class içindeki constructor içinde bir objesini oluþturur
 	public Instructor() {
 		super();
 	}

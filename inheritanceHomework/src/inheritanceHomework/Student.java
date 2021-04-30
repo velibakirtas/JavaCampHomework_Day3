@@ -1,9 +1,8 @@
 package inheritanceHomework;
 
-// getMyLesson metodu üzerinde uðraþýlacak
+
 public class Student extends User {
-	// öðrenci kullanýcýsý classýdýr
-	// User classýný miras alacak
+
 	private String address;
 	private String educationStatus;
 

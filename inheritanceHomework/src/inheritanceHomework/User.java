@@ -1,8 +1,7 @@
 package inheritanceHomework;
 
 public class User {
-	// temel kullanýcý sýnýfý
-	// ortak kullanýcý bilgileri yer alacak
+
 	private int id;
 	private String firstName;
 	private String lastName;
